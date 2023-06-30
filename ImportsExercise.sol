@@ -3,7 +3,7 @@ pragma solidity 0.8.17;
 // import "hardhat/console.sol";
 
 
-import "https://github.com/Twigmaester/SolContracts/blob/master/SillyStringUtils.sol";
+import "./SillyStringUtils.sol";
 
 
 
